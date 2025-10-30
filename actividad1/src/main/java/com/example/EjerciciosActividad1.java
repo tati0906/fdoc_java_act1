@@ -14,7 +14,7 @@ public class EjerciciosActividad1 {
 
         // --- Identificadores ---
         int edadEstudiante = 20;
-        String nombreCompleto = "Juan Pérez";
+        String nombreCompleto = "Tatiana";
         final int MAX_EDAD = 100;
 
         System.out.println("Nombre: " + nombreCompleto);
